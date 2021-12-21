@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Worker Agent</string>
+    <string name="facebook_app_id">308708104425915</string>
+    <string name="fb_login_protocol_scheme">fb308708104425915</string>
+</resources>

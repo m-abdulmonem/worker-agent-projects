@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+comworker/agent/worker_agent/BuildConfig.java
+ comworker.agent.worker_agent.BuildConfig

@@ -1,0 +1,9 @@
+abstract class Routes {
+  static const SPLASH = '/splash';
+  static const HOME = '/home';
+  static const MAIN = '/main';
+  static const AUTH = '/auth';
+  static const LOGIN = '/login';
+  static const Register = '/register';
+  static const FORGET_PASSWORD = '/password/forget';
+}
